@@ -1,6 +1,6 @@
-# hello-world
+# Data Collection 
 
-Hi GitHub!
+Hola!
 
-Betoria here, I like Coldplay and a piggy called Michael.
-I am now listening Viva La Vida while following the naive guidebook for GitHub!
+This is Betoria Yuan, coming social scientist and lover for business and social good. 
+I just collect data sets as resources for my learning process.
